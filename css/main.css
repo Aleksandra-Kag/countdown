@@ -80,7 +80,7 @@ body::after {
 	font-size: 26px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 590px) {
 	.title {
 		font-size: 35px;
 	}
