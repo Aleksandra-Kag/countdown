@@ -8,7 +8,7 @@ const preloader = document.querySelector('#preloader');
 
 
 const currentYear = new Date().getFullYear();
-const nextYear = new Date(`July 05 2024 14:00:00`);
+const nextYear = new Date(`March 12 2024 12:15:00`);
 
 function updateCounter() {
 
